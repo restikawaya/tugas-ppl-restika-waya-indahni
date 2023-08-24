@@ -1,0 +1,12 @@
+1. Sistem apa yang anda kembangkan pada mata kuliah ini?
+Jawab: 
+company profile untuk TPA (Taman Pendidikan Al-Qur'an) Mifftahul Jannah menggunakan web dengan framework laravel
+
+
+2. Apa tujuan anda mengembangkan sistem tersebut?
+Jawab:
+untuk membantu TPA Mifftahul Jannah dalam mengelola data santri, pengumuman-pengumuman penting,prestasi santri,kegiatan santri serta promosi TPA
+
+3. Apa harapan yang ingin anda dapatkan dari user ketika menggunakan sistem yang anda kembangkan?
+Jawab:
+Harapan saya adalah agar user, yang dalam hal ini adalah pengurus TPA Mifftahul Jannah dan orangtua santri, dapat dengan mudah mengakses dan mengelola data santri, mendapatkan informasi penting tentang pengumuman, prestasi, dan kegiatan santri, serta dapat merasa terlibat dalam promosi TPA
